@@ -1,0 +1,3 @@
+With the help of these models,(js files made using 
+mongoose), mongo DB will understand how it needs to
+structure the data in the DATABSE

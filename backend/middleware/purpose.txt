@@ -1,0 +1,1 @@
+Middleware has access to request and response object. Jo bhi function tu dekhta hai express js me sb middleare hain
